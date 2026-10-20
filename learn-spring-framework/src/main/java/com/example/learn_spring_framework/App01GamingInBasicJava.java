@@ -3,7 +3,7 @@ package com.example.learn_spring_framework;
 import com.example.learn_spring_framework.game.*;
 
 
-public class AppGamingInBasicJava {
+public class App01GamingInBasicJava {
     static void main() {
        //.....................//
        var game1 =new marioGame();
